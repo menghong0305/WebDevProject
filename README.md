@@ -6,4 +6,4 @@ Advanced CSS Library/Concepts Used:
 2. Create Scroll Down Animation via Animation On Scroll (AOS) 
 3. MediaQuery for responsive designs 
 
-Tutorial Credited: Daily TUtorial @ https://www.youtube.com/watch?v=CrSC1ZA9j0M
+Tutorial Credited: Daily Tutorial @ https://www.youtube.com/watch?v=CrSC1ZA9j0M
