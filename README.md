@@ -7,7 +7,3 @@ Advanced CSS Library/Concepts Used:
 3. MediaQuery for responsive designs 
 
 Tutorial Credited: Daily Tutorial @ https://www.youtube.com/watch?v=CrSC1ZA9j0M
-
-## Subheader 
-
-Testing 
